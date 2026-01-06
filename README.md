@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarun kumar</h1>
-<h3 align="center">A passionate <b>Android Developer</b> enthusiast from India</h3>
+<h3 align="center">A passionate <strong>Android Developer</strong> enthusiast from India</h3>
 
 - 📫 How to reach me **ydvtarun660@gmailcom**
 

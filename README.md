@@ -3,7 +3,7 @@
   A dedicated <strong>Android Developer</strong> from India with a strong interest in building scalable and user-friendly mobile applications
 </p>
 
-  <p align="center">📫 How to reach me: <strong>ydvtarun660@gmail.com</strong>strong></p>
+  <p align="center">📫 How to reach me: <strong>ydvtarun660@gmail.com</strong></p>
 
 <p align="left"></p>
 

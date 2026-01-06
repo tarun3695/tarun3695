@@ -4,8 +4,7 @@
 </p>
 
 - 📫 How to reach me: **ydvtarun660@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+- 
 <p align="left"></p>
 
 # 💫 About Me:
@@ -21,10 +20,12 @@ My primary expertise lies in **Java-based Android development**, with a strong f
 ![Android](https://img.shields.io/badge/Android%20Development-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 
 ### ✍️ Developer Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

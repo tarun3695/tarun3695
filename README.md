@@ -1,11 +1,3 @@
-<p align="center">
-  <img 
-    src="https://images.unsplash.com/photo-1607252650355-f7fd0460ccdb?auto=format&fit=crop&w=1600&q=80" 
-    alt="Android Development Background"
-    width="50%"
-  />
-</p>
-
 <h1 align="center">Hi 👋, I'm Tarun Kumar</h1>
 <p align="center">
   A dedicated <strong>Android Developer</strong> from India with a strong interest in building scalable and user-friendly mobile applications

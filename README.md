@@ -4,7 +4,7 @@
 </p>
 
 - 📫 How to reach me: **ydvtarun660@gmail.com**
-- 
+
 <p align="left"></p>
 
 # 💫 About Me:
@@ -14,7 +14,7 @@ My primary expertise lies in **Java-based Android development**, with a strong f
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-kumar-244928237/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tarun.kumar288569@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ydvtarun660@gmail.com)
 
 # 💻 Tech Stack:
 ![Android](https://img.shields.io/badge/Android%20Development-3DDC84?style=for-the-badge&logo=android&logoColor=white)

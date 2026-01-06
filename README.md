@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://images.unsplash.com/photo-1581091870627-3f9c1c1c1c1c?auto=format&w=1600&q=80" 
+    src="https://images.unsplash.com/photo-1607252650355-f7fd0460ccdb?auto=format&fit=crop&w=1600&q=80" 
     alt="Android Development Background"
     width="100%"
   />
